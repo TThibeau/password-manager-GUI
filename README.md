@@ -8,10 +8,10 @@
   <a href="https://github.com/TThibeau/password-manager-GUI">
     <img src="logo.png" alt="Logo" width="80" height="80">
   </a>
-<h3 align="center">project_title</h3>
+<h3 align="center">Password manager</h3>
 
   <p align="center">
-    project_description
+    GUI for locally storing your website login details
     <br />
     <a href="https://github.com/TThibeau/password-manager-GUI"><strong>Explore the docs »</strong></a>
     <br />
@@ -51,6 +51,9 @@
 
 [![Password manager screenshot][product-screenshot]](https://github.com/TThibeau/password-manager-GUI/Pw_manager_screenshot.png)
 
+A password manager application for locally storing login details for websites. The 'Search' button allows for searching previously entered login details. If a login was previously registered for that specific website and the Search button is pressed messagebox will pop up with the corresponding details and the password is copied to the clipboard. The 'Generate password' button automatically enters a strong password and copies the password to the clipboard.
+
+[![Messagebox screenshot][messagebox-screenshot]](https://github.com/TThibeau/password-manager-GUI/messagebox.png)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -101,3 +104,4 @@ Project Link: [https://github.com/TThibeau/password-manager-GUI](https://github.
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/linkedin_username -->
 [product-screenshot]: Pw_manager_screenshot.png
+[messagebox-screenshot]: messagebox.png
