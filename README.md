@@ -51,7 +51,7 @@
 
 [![Password manager screenshot][product-screenshot]](https://github.com/TThibeau/password-manager-GUI/Pw_manager_screenshot.png)
 
-A password manager application for locally storing login details for websites. The 'Search' button allows for searching previously entered login details. If a login was previously registered for that specific website and the Search button is pressed messagebox will pop up with the corresponding details and the password is copied to the clipboard. The 'Generate password' button automatically enters a strong password and copies the password to the clipboard.
+A password manager application for locally storing login details for websites. The 'Search' button allows for searching previously entered login details. If a login was previously registered for that specific website and the button is pressed, a messagebox will pop up with the corresponding details and the password is copied to the clipboard. The 'Generate password' button automatically enters a strong password and copies the password to the clipboard.
 
 [![Messagebox screenshot][messagebox-screenshot]](https://github.com/TThibeau/password-manager-GUI/messagebox.png)
 
